@@ -6,6 +6,7 @@ A pontozási rendszerben (12, 10, 8, 7, 6, 5, 4, 3, 2, 1) pontot osztanak ki az 
 A pontozási rendszer 2016-ban megváltozott, a pontokat az összesített helyett külön jury és public -ra vették szét, így azóta kétszer annyi pontot osztanak ki.
 
 A adatelemzésben az 1956-os és 2020-as pontokat nem vettem bele, mert előbbi esetén nem volt publikus a szavazás, utóbbinál pedig nem rendezték meg.
+Ezenkívül az adatok a döntős pontokatat tartalmazzák.
 
 Követelmények:
 Python 3.11.7-ben íródtak a fájlok.
